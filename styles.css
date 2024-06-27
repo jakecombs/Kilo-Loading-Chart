@@ -8,13 +8,15 @@
 
 .header {
   width: 100%; /* or any other width you want */
+  display: flex;
   justify-content: center; /* optional: adjust alignment as needed */
   align-items: center; /* optional: adjust alignment as needed */
 }
 
 .header h1 {
   white-space: nowrap; /* prevents text from wrapping */
-  text-align: center !important; /* optional: adjust alignment as needed */
+  overflow: hidden; /* hides any overflow text */
+  text-align: center; /* optional: adjust alignment as needed */
   width: 80%; /* 80% of the container width */
   font-size: 80%; /* 80% of the container width */
 }
