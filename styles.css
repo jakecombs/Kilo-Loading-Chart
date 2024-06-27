@@ -7,7 +7,7 @@
 }
 
 h1 {
-    text-align: center; /* Center align the text */
+    text-align: center !important ; /* Center align the text */
     margin-bottom: 20px;
     font-size: 2vw; /* Adjust font size relative to viewport width */
 }
@@ -16,7 +16,7 @@ h1 {
 body {
     background-color: #121212;
     color: #ffffff;
-    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif !important;
+    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif;
     font-size: 1rem; /* Set base font size */
     padding: 0;
     margin: 0;
