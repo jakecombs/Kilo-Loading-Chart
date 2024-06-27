@@ -31,7 +31,7 @@ p {
 /* Style the image */
 img {
     display: block; /* Ensure image is treated as a block element */
-    max-width: 80%; /* Make image responsive within its container */
+    max-width: 60%; /* Make image responsive within its container */
     height: auto; /* Maintain aspect ratio */
     margin: 0 auto 20px; /* Center image horizontally and add space below */
     border-radius: 8px; /* Optional: Add rounded corners to the image */
