@@ -8,7 +8,7 @@ d/* Define the custom font */
 }
 
 .h1 {
-  text-align: center; /* optional: adjust alignment as needed */
+  text-align: right; /* optional: adjust alignment as needed */
   font-size: 8px /* 80% of the container width */
 }
 
