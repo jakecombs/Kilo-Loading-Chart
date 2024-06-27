@@ -10,7 +10,19 @@
     <div class="container">
         <h1>H-Town Barbell Official Kilo Loading Chart</h1>
         <img src="Assets/Untitled-1.jpg" alt="Plate Loading Chart">
-        <img id="downloadButton" src="Assets/download button.png" alt="Download Photo">
+        <img id="downloadButton" src="Assets/download_button.png" alt="Download Photo">
     </div>
+
+    <!-- JavaScript for download button -->
+    <script>
+        document.getElementById('downloadButton').addEventListener('click', function() {
+            var link = document.createElement('a');
+            link.href = 'Assets/Untitled-1.jpg'; // Replace with the actual path to your image
+            link.download = 'Untitled-1.jpg'; // Replace with desired filename
+            document.body.appendChild(link);
+            link.click();
+            document.body.removeChild(link);
+        });
+    </script>
 </body>
 </html>
