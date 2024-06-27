@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gym Plate Loading Chart</title>
+    <link rel="stylesheet" href="styles.css"> <!-- If you have a CSS file -->
+</head>
+<body>
+    <h1>My Gym Plate Loading Chart</h1>
+    <img src="plate-loading-chart.jpg" alt="Plate Loading Chart">
+    <!-- Replace "plate-loading-chart.jpg" with the actual filename of your image -->
+    <p>This is where you can put your kilogram plate loading chart.</p>
+</body>
+</html>
