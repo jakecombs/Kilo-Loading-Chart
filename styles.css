@@ -9,7 +9,6 @@ d/* Define the custom font */
 
 /* Apply the custom font to the header */
 h1 {
-    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif;
     text-align: center;
     margin-bottom: 20px;
     white-space: nowrap; /* Prevent text wrapping */
