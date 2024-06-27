@@ -8,7 +8,6 @@
 }
 
 .h1 {
-  white-space: nowrap; /* prevents text from wrapping */
   overflow: hidden; /* hides any overflow text */
   text-align: center; /* optional: adjust alignment as needed */
   width: 80%; /* 80% of the container width */
