@@ -15,7 +15,7 @@ body, h1, p {
 body {
     background-color: #121212; /* Dark background color */
     color: #ffffff; /* Light text color */
-    font-family: 'akira_expandedsuper_bold', /* Choose appropriate font-family */
+    font-family: 'akira_expandedsuper_bold'; /* Choose appropriate font-family */
 }
 
 /* Center content horizontally */
