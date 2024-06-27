@@ -7,9 +7,8 @@
     <link rel="stylesheet" href="styles.css"> <!-- If you have a CSS file -->
 </head>
 <body>
-    <h1>My Gym Plate Loading Chart</h1>
+    <h1>H-Town Barbell Official Kilo Loading Chart</h1>
     <img src="Untitled-1.jpg" alt="Plate Loading Chart">
     <!-- Replace "plate-loading-chart.jpg" with the actual filename of your image -->
-    <p>This is where you can put your kilogram plate loading chart.</p>
 </body>
 </html>
