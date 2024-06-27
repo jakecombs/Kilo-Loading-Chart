@@ -9,7 +9,7 @@
 h1 {
     text-align: center !important ; /* Center align the text */
     margin-bottom: 20px;
-    font-size: 2px; /* Adjust font size relative to viewport width */
+    font-size: 10px; /* Adjust font size relative to viewport width */
 }
 
 /* Example of other styles you may have */
