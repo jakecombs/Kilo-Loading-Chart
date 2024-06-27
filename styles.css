@@ -21,7 +21,7 @@
 
 .header h1 {
   white-space: nowrap; /* prevents text from wrapping */
-  text-align: center; /* optional: adjust alignment as needed */
+  text-align: center !important; /* optional: adjust alignment as needed */
   width: 80%; /* 80% of the container width */
   font-size: 80%; /* 80% of the container width */
 }
