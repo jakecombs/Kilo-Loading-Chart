@@ -14,7 +14,6 @@ h1 {
     margin-bottom: 20px;
     white-space: nowrap; /* Prevent text wrapping */
     overflow: hidden; /* Hide overflowing text */
-    text-overflow: clip; /* Clip text if it overflows */
 }
 
 /* Example of other styles you may have */
