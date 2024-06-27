@@ -34,6 +34,7 @@ h1 {
 
 /* Style the paragraph */
 p {
+    font-face: 'akira_expanded_demo-webfont';
     text-align: justify; /* Justify align paragraphs */
     line-height: 1.6; /* Adjust line height for readability */
 }
