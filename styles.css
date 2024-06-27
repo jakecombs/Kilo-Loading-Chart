@@ -9,8 +9,6 @@
 h1 {
     text-align: center; /* Center align the text */
     margin-bottom: 20px;
-    white-space: nowrap; /* Prevent text wrapping */
-    overflow: hidden; /* Hide overflowing text */
     font-size: 2vw; /* Adjust font size relative to viewport width */
 }
 
