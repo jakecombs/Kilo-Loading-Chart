@@ -1,49 +1,43 @@
+/* Define the custom font */
 @font-face {
-    font-family: 'akira_expandedsuper_bold';
+    font-family: 'AkiraExpandedSuperBold';
     src: url('fonts/akira_expandedsuper_bold.woff2') format('woff2'),
          url('fonts/akira_expandedsuper_bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
-
 }
 
+/* Apply the custom font to the header */
 h1 {
     font-family: 'AkiraExpandedSuperBold', Arial, sans-serif; /* Apply the custom font */
     text-align: center;
     margin-bottom: 20px;
 }
 
+/* Other styles */
 body {
     background-color: #121212; /* Dark background color */
     color: #ffffff; /* Light text color */
-    font-family: 'akira_expandedsuper_bold', Arial, sans-serif; /* Apply the custom font */
+    font-family: Arial, sans-serif; /* Default font for body */
     font-size: 16px;
 }
 
-/* Center content horizontally */
 .container {
-    max-width: 800px; /* Adjust max-width as needed */
-    margin: 0 auto; /* Center content horizontally */
-    padding: 20px; /* Add padding around content */
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
 }
 
-/* Style the header */
-h1 {
-    text-align: center; /* Center align heading */
-    margin-bottom: 50px; /* Add space below heading */
-}
-
-/* Style the paragraph */
 p {
-    text-align: justify; /* Justify align paragraphs */
-    line-height: 1.6; /* Adjust line height for readability */
+    text-align: justify;
+    line-height: 1.6;
 }
 
-/* Style the image */
 img {
-    display: block; /* Ensure image is treated as a block element */
-    max-width: 80%; /* Make image responsive within its container */
-    height: auto; /* Maintain aspect ratio */
-    margin: 0 auto 20px; /* Center image horizontally and add space below */
-    border-radius: 8px; /* Optional: Add rounded corners to the image */
+    display: block;
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto 20px;
+    border-radius: 8px;
 }
