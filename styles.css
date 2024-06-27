@@ -7,10 +7,52 @@ d/* Define the custom font */
     font-style: normal;
 }
 
-.h1 {
-  text-align: right; /* optional: adjust alignment as needed */
-  font-size: 8px /* 80% of the container width */
+/* Apply the custom font to the header */
+h1 {
+    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    white-space: nowrap; /* Prevent text wrapping */
+    overflow: hidden; /* Hide overflowing text */
+    text-overflow: clip; /* Clip text if it overflows */
+    font-size: 32px; /* Default font size */
 }
+
+/* Adjust font size for smaller screens */
+@media (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+}
+
+/* Example of other styles you may have */
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: Arial, sans-serif; /* Default font for body */
+    font-size: 16px;
+}
+
+.container {
+    max-width: 100%; /* Ensure the container expands to full width on smaller screens */
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: justify;
+    line-height: 1.6;
+}
+
+img {
+    display: block;
+    max-width: 80%;
+    height: auto;
+    margin: 0 auto 20px;
+    border-radius: 8px;
+}
+
 
 /* Other styles */
 body {
