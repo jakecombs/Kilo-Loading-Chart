@@ -9,7 +9,6 @@
 
 /* Apply the custom font to the header */
 h1 {
-    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif; /* Apply the custom font */
     text-align: center;
     margin-bottom: 20px;
 }
