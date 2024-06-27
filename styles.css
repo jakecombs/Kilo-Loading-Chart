@@ -1,8 +1,7 @@
 /* Define the custom font */
 @font-face {
     font-family: 'AkiraExpandedSuperBold';
-    src: url('fonts/akira_expandedsuper_bold.woff2') format('woff2'),
-         url('fonts/akira_expandedsuper_bold.woff') format('woff');
+    src: url('fonts/akira_expandedsuper_bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
