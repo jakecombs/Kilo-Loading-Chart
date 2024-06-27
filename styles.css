@@ -13,10 +13,9 @@ body, h1, p {
 }
 
 body {
-    font-face: 'akira_expandedsuper_bold';
     background-color: #121212; /* Dark background color */
     color: #ffffff; /* Light text color */
-    font-family: Arial, sans-serif; /* Choose appropriate font-family */
+    font-family: 'akira_expandedsuper_bold', sans-serif; /* Choose appropriate font-family */
 }
 
 /* Center content horizontally */
@@ -34,7 +33,6 @@ h1 {
 
 /* Style the paragraph */
 p {
-    font-face: 'akira_expandedsuper_bold';
     text-align: justify; /* Justify align paragraphs */
     line-height: 1.6; /* Adjust line height for readability */
 }
