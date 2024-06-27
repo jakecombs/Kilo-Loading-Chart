@@ -7,12 +7,21 @@
     font-style: normal;
 }
 
-h1 {
-    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif;
-    font-size: 10px;
-    text-align: center;
-    margin-bottom: 20px; /* Default font size */
+.header {
+  width: 100%; /* or any other width you want */
+  display: flex;
+  justify-content: center; /* optional: adjust alignment as needed */
+  align-items: center; /* optional: adjust alignment as needed */
 }
+
+.header h1 {
+  white-space: nowrap; /* prevents text from wrapping */
+  overflow: hidden; /* hides any overflow text */
+  text-align: center; /* optional: adjust alignment as needed */
+  width: 80%; /* 80% of the container width */
+  font-size: 80%; /* 80% of the container width */
+}
+
 
 /* Other styles */
 body {
