@@ -42,3 +42,7 @@ img {
     border-radius: 8px;
 }
 
+#downloadButton {
+    cursor: pointer; /* Ensure the cursor changes on hover */
+    /* Add more styles as needed */
+}
