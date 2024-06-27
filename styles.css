@@ -25,35 +25,6 @@ h1 {
     }
 }
 
-/* Example of other styles you may have */
-body {
-    background-color: #121212;
-    color: #ffffff;
-    font-family: Arial, sans-serif; /* Default font for body */
-    font-size: 16px;
-}
-
-.container {
-    max-width: 100%; /* Ensure the container expands to full width on smaller screens */
-    margin: 0 auto;
-    padding: 20px;
-    text-align: center;
-}
-
-p {
-    text-align: justify;
-    line-height: 1.6;
-}
-
-img {
-    display: block;
-    max-width: 80%;
-    height: auto;
-    margin: 0 auto 20px;
-    border-radius: 8px;
-}
-
-
 /* Other styles */
 body {
     background-color: #121212; /* Dark background color */
