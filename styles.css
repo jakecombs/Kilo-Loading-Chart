@@ -7,9 +7,9 @@ d/* Define the custom font */
     font-style: normal;
 }
 
-.header {
+.h1 {
   text-align: center; /* optional: adjust alignment as needed */
-  font-size: 30%; /* 80% of the container width */
+  font-size: 8px /* 80% of the container width */
 }
 
 /* Other styles */
