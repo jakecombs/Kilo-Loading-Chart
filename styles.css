@@ -13,12 +13,6 @@
   align-items: center; /* optional: adjust alignment as needed */
 }
 
-@media (max-width: 768px) {
-    h1 {
-        font-size: 6vw; /* Adjust font size for smaller screens */
-    }
-}
-
 .header h1 {
   white-space: nowrap; /* prevents text from wrapping */
   text-align: center !important; /* optional: adjust alignment as needed */
