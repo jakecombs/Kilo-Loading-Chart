@@ -11,7 +11,7 @@ h1 {
     margin-bottom: 20px;
     white-space: nowrap; /* Prevent text wrapping */
     overflow: hidden; /* Hide overflowing text */
-    font-size: 4vw; /* Adjust font size relative to viewport width */
+    font-size: 2vw; /* Adjust font size relative to viewport width */
 }
 
 /* Example of other styles you may have */
