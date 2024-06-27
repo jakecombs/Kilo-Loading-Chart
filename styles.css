@@ -12,6 +12,7 @@ h1 {
     margin-bottom: 20px;
     white-space: nowrap; /* Prevent text wrapping */
     overflow: hidden; /* Hide overflowing text */
+    max-width: 80%
 }
 
 /* Example of other styles you may have */
