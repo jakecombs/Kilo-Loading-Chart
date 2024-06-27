@@ -13,7 +13,7 @@ body, h1, p {
 }
 
 body {
-    font-face: akira_expanded_demo-webfont;
+    font-face: 'akira_expanded_demo-webfont';
     background-color: #121212; /* Dark background color */
     color: #ffffff; /* Light text color */
     font-family: Arial, sans-serif; /* Choose appropriate font-family */
