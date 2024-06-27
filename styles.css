@@ -7,6 +7,10 @@ d/* Define the custom font */
     font-style: normal;
 }
 
+header {
+    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif; /* Default font for body */
+}
+
 h1 {
     font-family: 'AkiraExpandedSuperBold', Arial, sans-serif; /* Default font for body */
 }
