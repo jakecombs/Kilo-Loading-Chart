@@ -11,8 +11,6 @@ h1 {
     font-family: 'AkiraExpandedSuperBold', Arial, sans-serif;
     text-align: center;
     margin-bottom: 20px;
-    white-space: nowrap; /* Prevent text wrapping */
-    overflow: hidden; /* Hide overflowing text */
     text-overflow: clip; /* Clip text if it overflows */
     font-size: 32px; /* Default font size */
 }
