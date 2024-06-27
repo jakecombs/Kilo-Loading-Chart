@@ -18,7 +18,7 @@ h1 {
 body {
     background-color: #121212; /* Dark background color */
     color: #ffffff; /* Light text color */
-    font-family: Arial, sans-serif; /* Default font for body */
+    font-family: 'AkiraExpandedSuperBold', Arial, sans-serif; /* Default font for body */
     font-size: 16px;
 }
 
