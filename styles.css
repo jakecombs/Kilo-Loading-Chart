@@ -8,6 +8,7 @@
 }
 
 body, h1, p {
+    font-face: akira_expanded_demo-webfont;
     margin: 20px;
     padding: 0;
 }
