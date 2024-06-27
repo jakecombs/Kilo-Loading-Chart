@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'akira_expandedsuper_bold';
-    src: url('fonts/akira_expanded_demo-webfont.woff2') format('woff2'),
-         url('fonts/akira_expanded_demo-webfont.woff') format('woff');
+    src: url('fonts/akira_expandedsuper_bold.woff2') format('woff2'),
+         url('fonts/akira_expandedsuper_bold.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
