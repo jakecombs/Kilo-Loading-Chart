@@ -8,7 +8,7 @@
 
 h1 {
     text-align: center !important ; /* Center align the text */
-    margin-bottom: 1000px;
+    margin-bottom: 20px;
     font-size: 15px !important; 
 }
 
@@ -38,7 +38,7 @@ img {
     display: block;
     max-width: 80%;
     height: auto;
-    margin: 0 auto 20px;
+    margin: 40px auto 20px;
     border-radius: 8px;
 }
 
