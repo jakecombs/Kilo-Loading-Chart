@@ -1,4 +1,4 @@
-/* Define the custom font */
+d/* Define the custom font */
 @font-face {
     font-family: 'AkiraExpandedSuperBold';
     src: url('fonts/akira_expandedsuper_bold.woff2') format('woff2'),
@@ -7,7 +7,7 @@
     font-style: normal;
 }
 
-.h1 {
+.header {
   text-align: center; /* optional: adjust alignment as needed */
   font-size: 30%; /* 80% of the container width */
 }
