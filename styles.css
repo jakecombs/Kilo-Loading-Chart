@@ -7,13 +7,6 @@
     font-style: normal;
 }
 
-.header {
-  width: 100%; /* or any other width you want */
-  display: flex;
-  justify-content: center; /* optional: adjust alignment as needed */
-  align-items: center; /* optional: adjust alignment as needed */
-}
-
 .h1 {
   white-space: nowrap; /* prevents text from wrapping */
   overflow: hidden; /* hides any overflow text */
